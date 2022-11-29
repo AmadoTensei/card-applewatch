@@ -12,8 +12,8 @@ body {
 
 .card {
 	width: 420px;
-	border: 1px solid #dbb9b9;
 	padding: 20px 40px 50px;
+	border: 1px solid #dbb9b9;
 	text-align: center;
 }
 
